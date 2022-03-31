@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KimberlyKye
 - 👀 I’m interested in frontend, backend and a little bit iOS programming
 - 🌱 I’m currently learning C# and Angular
-- 📫 How to reach me: lovelystasik@gmail.com
+- 📫 How to reach me: t.me/KimberlyKye

@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning React
 - 📫 How to reach me: t.me/KimberlyKye
 
-P.S. You can see kind of preview in wiki of each project.
+P.S. You can see the kind of preview in wiki of each project.

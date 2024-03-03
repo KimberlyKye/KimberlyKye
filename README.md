@@ -3,7 +3,8 @@
  👀 I’m interested in frontend
  
  🍔 I'm founder of KK Food - nutrition app - https://kk-food.vercel.app
- 👀 More information: t.me/kk_food_news_en
+ 
+ 👀 More information: https://t.me/kk_food_news_en
 
  🌱 I’m currently working with Angular, Ionic, ASP.NET and C#
 

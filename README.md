@@ -6,7 +6,7 @@
  
  👀 More information: https://t.me/kk_food_news_en
 
- 🌱 I’m currently working with Angular, Ionic, ASP.NET and C#
+ 🌱 I’m currently working with Angular, Ionic, ASP.NET Core and ASP.NET Framework
 
  📫 How to reach me: t.me/KimberlyKye
 

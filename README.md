@@ -10,4 +10,8 @@
 
  📫 How to reach me: t.me/KimberlyKye
 
+ 👽 list of the most interesting projects: https://github.com/stars/KimberlyKye/lists/finished-projects 
+
+ 🍃 also .NET projects you can see here: https://github.com/stars/KimberlyKye/lists/otus-projects
+
 P.S. You can see the kind of preview in wiki of each project.
